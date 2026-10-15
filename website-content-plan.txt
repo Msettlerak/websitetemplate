@@ -1,0 +1,72 @@
+# Website Content Plan
+
+**Target Role Area:** Junior software developement/machine learning
+
+## Professional Summary
+My name is matthew rakay. I am a tranfer student from Devry University. I completed my assosciates program in networking and security and obtained a certificate in programming essentials. My goal is to find a part time job in any entry level software developement position.
+## Projects
+Project 1
+   SQL Bakery
+   -my contribution: Put together diagrams and concepts. Wrote queries and tested functionalitiy. 
+Project 2   
+   Facade presentation: 
+   -Designed a presentation on how the facade pattern works in software architecture.
+
+Git Hub projects
+   - Created several git hub repositories including work with python and java.
+   
+   
+   -
+
+## Skills
+- **Technical:** Visual studio, JavaScript, Python, Git, architecture smell software
+
+- **Professional** Management,Communication, and group experience
+## Education
+
+- **Degree:** Associates of Apllied Science: Information Technologie and Networking
+
+- **Institution:** U of M Flint
+
+- **Expected Graduation Date:** 
+Spring 2028
+
+## Experience
+- Foreman at Davey treee
+  - Management and accident free
+
+## Professional Links
+- **LinkedIn:** # Website Content Plan
+
+**Target Role Area:** [e.g., Full-Stack Software Engineer / Data Analyst]
+
+## Professional Summary
+[Write 2–4 sentences describing who you are, your skills, and what you are looking to do.]
+
+## Projects
+1. **Project Name 1** 
+   - My Contribution: [e.g., Built the frontend UI, set up the database]
+   - Technologies: [e.g., React, Node.js, MongoDB]
+   - Link: [Insert URL or "N/A"]
+2. **Project Name 2**
+   - My Contribution: [e.g., Optimized SQL queries, automated testing]
+   - Technologies: [e.g., Python, PostgreSQL, Docker]
+   - Link: [Insert URL or "N/A"]
+
+## Skills
+- **Technical:** [List 3-6 skills, e.g., JavaScript, Python, Git]
+- **Professional:** [e.g., Agile Development, Team Collaboration]
+
+## Education
+- **Degree:** [e.g., B.S. in Computer Science]
+- **Institution:** [e.g., Your University]
+- **Expected Graduation Date:** [e.g., May 2027]
+
+## Experience
+- [Job/Role Title] at [Company/Organization] ([Dates])
+  - Key achievement or responsibility.
+
+## Professional Links
+- **LinkedIn:** (https://www.linkedin.com/in/matthew-rakay-51382a376/?isSelfProfile=true)
+
+- **GitHub:** [\[Your Link\]](https://github.com/Msettlerak)
