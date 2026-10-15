@@ -1,26 +1,18 @@
 .profile-pic {
   position: relative;
-  width: 130px !important;       /* Forces the image into a strict square width */
-  height: 130px !important;      /* Forces the image into a strict square height */
+  width: 130px !important;     /* Force a strict, identical square layout */
+  height: 130px !important;    /* Force a strict, identical square layout */
   overflow: hidden;
   
   margin: -31px;
   margin-left: -7px;
   border: 6px solid rgba(0, 77, 64, 0.4);
-  border-radius: 50% !important; /* Masks the square into a clean circle */
+  border-radius: 50% !important; /* Forces a perfect circle shape */
   
-  object-fit: cover;             /* Perfectly scales your photo inside the circle */
-  object-position: center;       /* Centers your face automatically */
+  object-fit: cover;           /* Perfectly crops the image inside the square frame */
+  object-position: center;     /* Centers your face automatically */
 }
 
-
-.tracker {
-  /* visibility: hidden; */
-  position: fixed;
-  /* margin-inline-end: auto;  */
-  bottom: 0; 
-  right: 0;
-}
 
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 .social {
