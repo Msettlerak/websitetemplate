@@ -1,7 +1,0 @@
-Repo Url: https://github.com/Msettlerak/websitetemplate
-
-local folder : C:\Users\msett\Workspace\Sft-Con\Resume-Webpage\websitetemplate
-
-default branch: msettlerak@matt MINGW64 ~/Workspace/Sft-Con/Resume-Webpage/websitetemplate (master)
-
-Site behavior: the site works and has all of the original creators information.
